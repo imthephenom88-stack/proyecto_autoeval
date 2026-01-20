@@ -65,3 +65,10 @@ git fetch se trae la información sobre si hay cambios en el repositorio remoto 
 y git pull nos actualiza nuestro repositorio local con los archivos del repositorio remoto.
 
 Tarea 6:
+Borro la línea *.txt de .gitignore para hacer visibles a git los archivos .txt.
+Renombro el archivo README.txt a README.md con el comando mv README.txt README.md.
+Y hago git add README.md/git commit -m "Añadiendo archivo README.md a GitHub"/git push origin master.
+
+Preguntas de reflexión:
+
+No hay comandos que me haya costado entender, ha sido más problema con las ramas. En un principio había hecho commit en master del archivo html vacío y lo modifiqué desde la rama 'incluir-estilos' introduciendo el contenido desde esa rama pero cuando puse el repositorio remoto lo hice desde master he hice push del html vacío, me dí cuenta al querer modificar el html desde GitHub y tuve que volver a la rama 'incluir-estilos' para copiar el contenido del html y volver ha hacerle push desde la rama master(en mi git es master y no main).  
