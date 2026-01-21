@@ -54,7 +54,7 @@ con git remote -v
 
 Tarea 5:
 Realizo los cambios en index.html desde GitHub y realizo un commit con mensaje "Cambio de titulo HTML de 'Autoevaluació Git' a 'Ejercicio de JOSE_ESPAÑA'.
-Uso git fetch para comprobar si mi repositorio local está al día con el remoto y realizo un git push origin master
+Uso git fetch para comprobar si mi repositorio local está al día con el remoto y realizo un git pull origin master
 para traerme los cambios al repositorio local.
 
 1.¿Qué comandos has utilizado para comprobar si el repositorio local está actualizado?
